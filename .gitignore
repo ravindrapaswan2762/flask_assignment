@@ -1,0 +1,38 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables
+.env
+
+# Flask / IDE
+instance/
+.webassets-cache
+*.log
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+*.egg-info/
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
