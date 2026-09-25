@@ -5,16 +5,6 @@ This project was created as part of a Software Engineer assignment.
 
 ---
 
-## AI Usage Declaration
-
-| Item | Detail |
-|------|--------|
-| **Tools used** | Google Antigravity IDE (Gemini-based coding assistant) |
-| **AI-generated parts** | Initial boilerplate for routes, model, service, config, Dockerfile |
-| **Manual modifications** | Validation logic tuning, error message wording, pagination clamping, JWT decorator design, README writing, SQL index decisions |
-
----
-
 ## Project Structure
 
 ```
@@ -290,3 +280,4 @@ git remote add origin <your-github-url>
 git push -u origin assignment
 # Then open a Pull Request from assignment → main
 ```
+
